@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://blog-paper-pi4erwupf-crazytrain9s-projects.vercel.app/"
 title = "ExampleSite"
 paginate = 5
 theme = "PaperMod"
