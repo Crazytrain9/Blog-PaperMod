@@ -8,5 +8,5 @@ author = 'Aditya Telange'
 第一篇测试的博客 ![图片](https://th.bing.com/th/id/OIP.qQTfhBa0ZbcCsvMqjUUGAgHaEK?rs=1&pid=ImgDetMain)![图片](https://th.bing.com/th/id/OIP.qQTfhBa0ZbcCsvMqjUUGAgHaEK?rs=1&pid=ImgDetMain)
 ```javascript
 const a = 1;
-
+const b = 2;
 ```
