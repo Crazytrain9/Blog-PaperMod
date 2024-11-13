@@ -76,9 +76,8 @@ Title = "Hi there 👋"
 Content = "Welcome to my blog"
 
 [[params.socialIcons]]
-name = "linux"
-url = "https://linux.do/"
-icon = "/icon/linux.svg"
+name = "x"
+url = "https://x.com"
 title = "Linux.do"
 [[params.socialIcons]]
 name = "stackoverflow"
