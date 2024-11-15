@@ -1,10 +1,10 @@
 +++
-title = "{{ replace .Name " " "" | title }}"
-date = "{{ .Date }}"
+title = "Install"
+date = "2024-11-15T21:27:07+08:00"
 # weight = 1
 # aliases = ["/first"]
 tags = []
-author = "Dom"
+author = "Me"
 # author = ["Me", "You"] # multiple authors
 showToc = true
 TocOpen = false

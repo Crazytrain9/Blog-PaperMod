@@ -1,6 +1,6 @@
 baseURL = "https://echolab.online"
 title = "ExampleSite"
-paginate = 5
+pagerSize = 5
 theme = "PaperMod"
 
 enableRobotsTXT = true
@@ -98,10 +98,10 @@ hidden = true # hide everywhere but not in structured data
 hiddenInList = true # hide on list pages and home
 hiddenInSingle = true # hide on single page
 
-[params.editPost]
-URL = "https://github.com/<path_to_repo>/content"
-Text = "Suggest Changes" # edit text
-appendFilePath = true # to append file path to Edit link
+#[params.editPost]
+#URL = "https://github.com/<path_to_repo>/content"
+#Text = "Suggest Changes" # edit text
+#appendFilePath = false # to append file path to Edit link
 
 # for search
 # https://fusejs.io/api/options.html

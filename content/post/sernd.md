@@ -3,10 +3,11 @@ title = "Sernd"
 date = 2024-11-11T00:47:14+08:00
 # weight = 1
 # aliases = ["/first"]
-tags = ["first"]
+tags = ["应用安装"]
 author = "Me"
 # author = ["Me", "You"] # multiple authors
 showToc = true
+categories = ["技術類"]
 TocOpen = false
 draft = false
 hidemeta = false
@@ -23,11 +24,11 @@ ShowPostNavLinks = true
 ShowWordCount = true
 ShowRssButtonInSectionTermList = true
 UseHugoToc = true
-category = '应用安装'
+
 [cover]
     image = "<image path/url>" # image path/url
     alt = "<alt text>" # alt text
-    caption = "<text>" # display caption under cover
+    caption = "<text>" # display caption undercover
     relative = false # when using page bundles set this to true
     hidden = true # only hide on current single page
 
